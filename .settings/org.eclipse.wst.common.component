@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="ch09_ex1_download">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/java"/>
+        <wb-resource deploy-path="/" source-path="/web"/>
+        <property name="context-root" value="ch09_ex1_download"/>
+        <property name="java-output-path" value="/ch09_ex1_download/bin"/>
+    </wb-module>
+</project-modules>
